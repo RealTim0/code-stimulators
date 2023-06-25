@@ -1,4 +1,4 @@
-import about from './about.jsx'
+import About from './about.jsx'
 import './App.css'
 
 function App() {
@@ -6,7 +6,7 @@ function App() {
 
   return (
     <>
-    <about/>
+      <About />
       <h1>CODE STIMULATORS</h1>
     </>
   )

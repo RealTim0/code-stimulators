@@ -1,5 +1,5 @@
 export default function about() {
-return(
+  return(
     <h3>Mimimi ni mwizi banah</h3>
 )
 }
