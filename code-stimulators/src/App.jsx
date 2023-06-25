@@ -1,4 +1,9 @@
+
 import About from './about.jsx'
+
+import React from 'react'
+import Projects from './Projects'
+
 import './App.css'
 
 function App() {
@@ -8,6 +13,7 @@ function App() {
     <>
       <About />
       <h1>CODE STIMULATORS</h1>
+      <Projects />
     </>
   )
 }
